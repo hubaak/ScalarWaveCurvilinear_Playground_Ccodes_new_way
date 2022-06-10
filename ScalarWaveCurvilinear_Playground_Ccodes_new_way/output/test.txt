@@ -1,0 +1,11 @@
+test1!
+test2!
+y_nplus1_running_total_gfs = 94599025621469
+k_odd_gfs = 140708134470376
+k_even_gfs = 94599025621392
+y_nplus1_running_total_gfs = 140707486498816
+k_odd_gfs = 140707486699520
+k_even_gfs = 140707486900224
+N_final = 2379
+0.000000e+00 -1.600000e+01
+CUDA error tag loop: an illegal memory access was encountered
